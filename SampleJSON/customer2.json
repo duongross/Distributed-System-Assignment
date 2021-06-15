@@ -1,0 +1,14 @@
+{
+	"id": 123,
+	"name": "Duong",
+	"age": 21,
+	"accounts": [
+		{"accountID": 123,
+		"balance":10000
+		},
+		{
+		"accountID": 456,
+		"balance":20000
+		}
+	]
+}
